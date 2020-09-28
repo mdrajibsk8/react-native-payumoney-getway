@@ -47,7 +47,7 @@ const App = () => {
       </View>
       <View style={{ flex: 1, backgroundColor: '#fff', justifyContent: "center", alignItems: "center" }}>
         <TouchableOpacity
-          style={{
+          style={{  
             backgroundColor: '#8954f6',
             paddingHorizontal: 50,
             paddingVertical: 15,
